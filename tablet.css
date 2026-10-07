@@ -54,3 +54,138 @@ nav a:hover
 {
     background-color: #1FA65A;
 }
+
+main 
+{
+    width: 90%;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: white;
+}
+
+main section 
+{
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 2px solid #23B7D9;
+    background-color: #F2E2CE;
+}
+
+main h2 
+{
+    margin-top: 0;
+    color: #8176D7;
+}
+
+main h3 
+{
+    color: #23B7D9;
+}
+
+main p 
+{
+    line-height: 1.6;
+}
+
+figure 
+{
+    margin: 20px auto;
+    text-align: center;
+}
+
+figure img 
+{
+    max-width: 100%;
+    height: auto;
+}
+
+figcaption 
+{
+    margin-top: 10px;
+    font-style: italic;
+}
+
+video 
+{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 20px auto;
+}
+
+form 
+{
+    width: 90%;
+    margin: 0 auto;
+}
+
+form p 
+{
+    margin-bottom: 20px;
+}
+
+label 
+{
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #8176D7;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+textarea 
+{
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #8176D7;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+textarea 
+{
+    resize: vertical;
+}
+
+input[type="submit"],
+input[type="reset"] 
+{
+    padding: 10px 20px;
+    margin-right: 10px;
+    border: none;
+    background-color: #23B7D9;
+    color: white;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover,
+input[type="reset"]:hover 
+{
+    background-color: #1FA65A;
+}
+
+footer 
+{
+    width: 90%;
+    margin: 20px auto 0;
+    padding: 20px;
+    text-align: center;
+    background: linear-gradient(135deg, #8176D7 0%, #23B7D9 100%);
+    color: white;
+}
+
+footer p 
+{
+    margin: 5px 0;
+}
+
+footer a 
+{
+    color: white;
+}
+
+footer a:hover 
+{
+    color: #F2E2CE;
+}
