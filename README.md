@@ -28,6 +28,7 @@ I used a colour scheme based on colours from Adobe Color. I chose colours that w
 #1FA65A - used for hover effects and parts of the gradients.
 #F2E2CE - used as the main background colour for the website and sections.
 #8176D7 - used for the navigation bar, headings, labels, and part of the footer gradient.
+#333333 - used to change some wording and heading to be more clear according to wave.
 
 White and dark grey were also used in different areas of the website to make the content easier to read.
 
