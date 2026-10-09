@@ -62,3 +62,18 @@ The responsive design was created using CSS media queries for desktop, tablet, a
 The video on the About Me page is my own video, and the images used on the website are my own images.
 
 The colours used in the website were selected using Adobe Color and are documented in the Colour Scheme section above.
+
+TESTING ERRORS:
+was given this code for a badge since my CSS files had no errors, tried putting it in but it made the index.html file have errors
+##<p>
+##    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+##        <img style="border:0;width:88px;height:31px"
+##           src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
+##          alt="Valid CSS!" />
+    </a>
+##</p>
+
+about.html: 
+ <source src="Videos/My video - Date.mp4" type="video/mp4">↩
+
+ changed too:  <source src="Videos/my-video-date.mp4" type="video/mp4">
